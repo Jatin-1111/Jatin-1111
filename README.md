@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jatin-1111
+# 👋 Hi, I’m Jatin
 
 - 👀 I’m interested in **technology, web development, and exploring cutting-edge tools.** I also enjoy playing cricket, guitar, and producing music in my free time.  
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, Framer Motion, and building my portfolio website.**  
