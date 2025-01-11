@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jatin
 
-> Frontend Developer | Web Developer | React Enthusiast | Music Producer
+> Web Developer | React Enthusiast | Music Producer
 
 ## 🚀 About Me
 
